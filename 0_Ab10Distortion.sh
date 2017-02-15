@@ -2,7 +2,6 @@
 
 # Analyze Kelly Dawe's GBS data on Ab10 recombination to see if Ab10 dramatically increases recombination rates in lines
 
-# TODO List tASSEL version
 TASSEL5="perl $HOME/Software/TASSEL/tassel-5-standalone/run_pipeline.pl -Xms1g -Xmx4g" # TASSEL version 5.5.26
 
 # Source files
